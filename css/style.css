@@ -40,7 +40,12 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Playfair Display', serif; }
   font-weight: 700;
   color: var(--accent);
 }
-.brand-icon { font-size: 1.5rem; }
+.brand-icon {
+  height: 55px;
+  width: auto;
+  display: inline-block;
+  vertical-align: middle;
+}
 .nav-link {
   color: rgba(255,255,255,0.9) !important;
   font-weight: 600;
