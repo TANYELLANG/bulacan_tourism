@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6 { font-family: 'Playfair Display', serif; }
   color: var(--accent);
 }
 .brand-icon {
-  height: 60px;
+  height: 70px;
   width: auto;
   display: inline-block;
   vertical-align: middle;
